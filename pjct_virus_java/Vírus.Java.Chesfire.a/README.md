@@ -1,9 +1,7 @@
 # Virus:Java/Cheshire.A
 
 ![Cheshire Cat](cheshire.png)
-by Bot
-
-Greetings: Coldzer0, Smelly, Neogram
+by Luthier2006
 
 ## Cheshire
 This is the first version of my bytecode virus for the JVM. This code is functional on JVM version 8 and higher. Along 
